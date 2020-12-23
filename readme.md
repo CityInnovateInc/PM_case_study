@@ -1,4 +1,4 @@
-#Associate Product Manager Case Study
+# Associate Product Manager Case Study
 
 1.  Our product roadmap has 10+ themes/categories each with several features. Please describe your approach for prioritization. Feel free to have a written response or use a simulated product roadmap/spreadsheet.
 
