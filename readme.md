@@ -1,13 +1,13 @@
-Associate Product Manager Case Study
+#Associate Product Manager Case Study
 
 1.  Our product roadmap has 10+ themes/categories each with several features. Please describe your approach for prioritization. Feel free to have a written response or use a simulated product roadmap/spreadsheet.
 
 2.  Using your approach for product roadmap prioritization, how would you organize and prioritize a large product backlog with 100+ items that are currently prioritized based on intuition. Feel free to have a written response, use a kanban, or diagram. Specifically, include the following in your response:
 
-1.  What are the specific columns in the kanban
-2.  How do you balance prioritization of backlog and new items
-3.  How do you track progress against the product roadmap
-4.  Any other relevant information that would be useful
+* What are the specific columns in the kanban
+* How do you balance prioritization of backlog and new items
+* How do you track progress against the product roadmap
+* Any other relevant information that would be useful
 
 3.  You joined CI as a PM. You've received the third customer request this month for changes to our forms functionality that was released six months ago. As an MVP feature, we've kept it very simple and only have a static form that addresses most use cases. In the support tickets, one of the tickets requests specific additional fields. The other two would like some mechanism to modify the static forms.
 
