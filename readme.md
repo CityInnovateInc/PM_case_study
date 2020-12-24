@@ -7,7 +7,8 @@ The case study assignment below doesn't have correct answers per se, instead the
 Thank you,
 Jay Nath
 
-/////////////////////////////////////////////////////////
+---
+
 1.  Our product roadmap has 10+ themes/categories each with several features. Please describe your approach for prioritization. Feel free to have a written response or use a simulated product roadmap/spreadsheet.
 
 2.  Using your approach for product roadmap prioritization, how would you organize and prioritize a large product backlog with 100+ items that are currently prioritized based on intuition. Feel free to have a written response, use a kanban, or diagram. Specifically, include the following in your response:
