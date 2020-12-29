@@ -19,7 +19,7 @@ Jay Nath
 * How do you track progress against the product roadmap
 * Any other relevant information that would be useful
 
-3.  You joined CI as a PM. You've received the third customer request this month for changes to our forms functionality that was released six months ago. As an MVP feature, we've kept it very simple and only have a static form that addresses most use cases. In the support tickets, one of the tickets requests specific additional fields. The other two would like some mechanism to modify the static forms.
+3.  You joined CI as a PM. You've received the third customer request this month for changes to our forms functionality that was released six months ago. In the support tickets, one of the tickets requests specific additional fields. The other two would like some mechanism to modify the static forms. As an MVP feature, we've kept it very simple and only have a static form that addresses most use cases. The form is managed by government procurement officials and is posted online for vendors to respond to about their qualifications and capabilities for a specific project.
 
 **Scenario 1: 2 week sprint** --- After discussions with the broader team, we've established that we will allocate a single two week sprint in the next cycle which is two weeks from now for addressing the above form improvements. With this time/resource constraint, how would you approach addressing the customer requests.
 
