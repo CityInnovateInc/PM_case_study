@@ -10,14 +10,17 @@ Jay Nath
 
 ---
 
-1.  Our product roadmap has 10+ themes/categories each with several features. Please describe your approach for prioritization. Feel free to have a written response or use a simulated product roadmap/spreadsheet.
+1.  Our product roadmap has multiple themes, each 5+ EPICs/initiatives. Please describe your approach for prioritization. Feel free to have a written response or use a simulated product roadmap/spreadsheet. Specifically, include the following in your response:
+
+* How do you track progress against the product roadmap?
+* How do you keep stakeholders update on progress of the roadmap?
+* How do you identify which features require user validation / research and allocate time for that in the Roadmap??
 
 2.  Using your approach for product roadmap prioritization, how would you organize and prioritize a large product backlog with 100+ items that are currently prioritized based on intuition. Feel free to have a written response, use a kanban, or diagram. Specifically, include the following in your response:
 
-* What are the specific columns in the kanban
-* How do you balance prioritization of backlog and new items
-* How do you track progress against the product roadmap
-* How do you keep stakeholders update on progress of the roadmap?
+* What are the specific columns in the kanban?
+* How do you balance prioritization of backlog and new items?
+* How do you track progress against the product roadmap and keep stakeholders informed?
 * Any other relevant information that would be useful
 
 3.  You joined CI as a PM. You've received the third customer request this month for changes to our forms functionality that was released six months ago. In the support tickets, one of the tickets requests specific additional fields. The other two would like some mechanism to modify the static forms. As an MVP feature, we've kept it very simple and only have a static form that addresses most use cases. The form is managed by government procurement officials and is posted online for vendors to respond to about their qualifications and capabilities for a specific project.
