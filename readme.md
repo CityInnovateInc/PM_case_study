@@ -17,6 +17,7 @@ Jay Nath
 * What are the specific columns in the kanban
 * How do you balance prioritization of backlog and new items
 * How do you track progress against the product roadmap
+* How do you keep stakeholders update on progress of the roadmap?
 * Any other relevant information that would be useful
 
 3.  You joined CI as a PM. You've received the third customer request this month for changes to our forms functionality that was released six months ago. In the support tickets, one of the tickets requests specific additional fields. The other two would like some mechanism to modify the static forms. As an MVP feature, we've kept it very simple and only have a static form that addresses most use cases. The form is managed by government procurement officials and is posted online for vendors to respond to about their qualifications and capabilities for a specific project.
