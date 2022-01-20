@@ -4,10 +4,6 @@ Dear candidates,
 
 The case study assignment below doesn't have correct answers per se, instead the goal is to start a conversation between us on things like your approach, how will you engage stakeholders, and design decisions. As an acknowledgment of your time, candidates are paid $100 Amazon gift card for an expected 2-3 hours to complete the case study. It is a commitment we ask from people at this point in the process. We want to invest the time in making sure we are a good fit for each other as much as reasonably possible. If you have any questions, please drop me a note.
 
-Thank you,
-
-Jay Nath
-
 ---
 
 1.  Our product roadmap has multiple themes, each 5+ EPICs/initiatives. Please describe your approach for prioritization. Feel free to have a written response or use a simulated product roadmap/spreadsheet. Specifically, include the following in your response:
