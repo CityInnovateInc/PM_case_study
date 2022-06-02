@@ -10,9 +10,10 @@ Jay Nath
 
 ---
 
-1.  Our product roadmap has multiple themes, each 5+ EPICs/initiatives. Please describe your approach for prioritization. Feel free to have a written response or use a simulated product roadmap/spreadsheet. Specifically, include the following in your response:
+1.  Our product roadmap has multiple themes, each with 5+ EPICs/initiatives. Please describe your approach for roadmap prioritization. Feel free to have a written response or use a simulated product roadmap/spreadsheet. Specifically, include the following in your response:
 
 * How do you track progress against the product roadmap?
+* How do you prioritize exsting EPICs/initiatives against new ones?
 * How do you track progress keep stakeholders update on progress of the roadmap?
 * How do you identify which features require user validation / research and allocate time for that in the Roadmap??
 
